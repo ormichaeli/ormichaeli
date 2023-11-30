@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ormichaeli
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning python, Big Data and NoSQL technologies, Cloud Computing and AWS
+- 👀 I’m a Big Data Engineer at Jutomate
+- 🌱 I have experience with pySpark streaming, pySpark Structured Streaming,Kafka, GCP, AWS, Hadoop, MongoDB,
+     PostgreSQL, DBT, Airflow, Linux, Python, SQL, MySQL, Tablue, Java.
 - 📫 How to reach me: ormichaeli207@gmail.com
 
 <!---
